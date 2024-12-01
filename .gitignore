@@ -1,0 +1,22 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+
+# Build directories
+bin/
+build/
+out/
